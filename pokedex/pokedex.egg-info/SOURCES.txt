@@ -1,0 +1,8 @@
+setup.py
+pokedex/__init__.py
+pokedex/main.py.py
+pokedex.egg-info/PKG-INFO
+pokedex.egg-info/SOURCES.txt
+pokedex.egg-info/dependency_links.txt
+pokedex.egg-info/entry_points.txt
+pokedex.egg-info/top_level.txt
